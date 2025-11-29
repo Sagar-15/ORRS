@@ -4,13 +4,13 @@ Tech Stack: HTML, CSS, PHP, SQL
 
 ✔ What I Built
 
-A complete web-based railway ticket booking system
+- A complete web-based railway ticket booking system
 
-Secure user authentication & session handling
+- Secure user authentication & session handling
 
-Ticket search, booking, and cancellation modules
+- Ticket search, booking, and cancellation modules
 
-Backend SQL database for storing and retrieving reservation data
+- Backend SQL database for storing and retrieving reservation data
 
 💡 Impact 
 
